@@ -42,20 +42,8 @@ tzlocal==4.2.1
 ```py
 BOT_TOKEN = "123456:ABC-DEF..."
 ```
-
-3. Ensure `ffmpeg` is installed and available in PATH.
-4. Create and activate a virtual environment (recommended):
-
-```bash
-python -m venv venv
-# Windows
-venv\Scripts\activate
-# macOS / Linux
-source venv/bin/activate
-```
-
-5. Install Python dependencies (see Requirements).
-6. Run the bot:
+3. Install Python dependencies (see Requirements).
+4. Run the bot:
 
 ```bash
 python telegram_dl_bot.py
@@ -108,22 +96,11 @@ tzlocal==4.2.1
 BOT_TOKEN = "123456:ABC-DEF..."
 ```
 
-3. Установи `ffmpeg` и проверь, что он доступен в PATH.
-4. Рекомендуется создать виртуальное окружение:
-
-```bash
-python -m venv venv
-# Windows
-venv\Scripts\activate
-# Linux/macOS
-source venv/bin/activate
-```
-
-5. Установи зависимости (см. выше).
-6. Запусти бота:
+3. Установи зависимости (см. выше).
+4. Запусти бота:
 
 ```bash
 python telegram_dl_bot.py
 ```
 
-7. Отправь боту ссылку на Shorts / Reel / TikTok — бот покажет эмоджи-статус и пришлёт видео, если удалось скачать и размер в пределах лимита.
+5. Отправь боту ссылку на Shorts / Reel / TikTok — бот покажет эмоджи-статус и пришлёт видео, если удалось скачать и размер в пределах лимита.
