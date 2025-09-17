@@ -1,5 +1,6 @@
 
-## **MediaDownloader** — Telegram bot that downloads and sends videos from YouTube Shorts / TikTok / Instagram Reels.
+## **MediaDownloader** 
+Telegram bot that downloads and sends videos from YouTube Shorts / TikTok / Instagram Reels.
 
 ---
 
@@ -53,7 +54,8 @@ python telegram_dl_bot.py
 
 ---
 
-## **MediaDownloader** — Telegram-бот для скачивания и отправки видео из YouTube Shorts / TikTok / Instagram Reels
+## **MediaDownloader** 
+Telegram-бот для скачивания и отправки видео из YouTube Shorts / TikTok / Instagram Reels
 
 ---
 
