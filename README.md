@@ -37,7 +37,7 @@ tzlocal==4.2.1
 
 ## How to use
 
-1. Clone or copy the repo and open the main script (`telegram_dl_bot.py`).
+1. Clone or copy the repo and open the main script (`downloader.py`).
 2. Put your bot token in the script:
 
 ```py
@@ -47,7 +47,7 @@ BOT_TOKEN = "123456:ABC-DEF..."
 4. Run the bot:
 
 ```bash
-python telegram_dl_bot.py
+python downloader.py
 ```
 
 7. Send a YouTube Shorts / TikTok / Instagram Reels link to the bot — it will reply with emoji status and send the video if downloadable and within size limits.
@@ -94,7 +94,7 @@ tzlocal==4.2.1
 
 ## Как использовать
 
-1. Склонируй репозиторий или помести файл `telegram_dl_bot.py` в папку.
+1. Склонируй репозиторий или помести файл `downloader.py` в папку.
 2. Вставь токен бота в файл:
 
 ```py
@@ -105,7 +105,7 @@ BOT_TOKEN = "123456:ABC-DEF..."
 4. Запусти бота:
 
 ```bash
-python telegram_dl_bot.py
+python downloader.py
 ```
 
 5. Отправь боту ссылку на Shorts / Reel / TikTok — бот покажет эмоджи-статус и пришлёт видео, если удалось скачать и размер в пределах лимита.
